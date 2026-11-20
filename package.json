@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "backend": "npm --prefix backend run dev",
-    "start": "npm --prefix backend start"
+    "backend:start": "npm --prefix backend start"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
